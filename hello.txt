@@ -1,4 +1,4 @@
 hello trkj!
 hello dongdong!
-hello Java!
+hello Java! hot-fix test
 hello Mysql!
