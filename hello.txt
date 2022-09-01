@@ -1,4 +1,9 @@
 hello trkj!
 hello dongdong!
+<<<<<<< HEAD
 hello Java!
 hello Mysql! master test
+=======
+hello Java! hot-fix test
+hello Mysql!
+>>>>>>> hot-fix
